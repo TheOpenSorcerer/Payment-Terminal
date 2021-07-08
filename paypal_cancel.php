@@ -4,7 +4,7 @@
 #******************************************************************************
 #      Author:     Convergine.com
 #      Email:      info@convergine.com
-#      Website:    http://www.convergine.com
+#      Website:    
 #
 #
 #      Version:    1.3
