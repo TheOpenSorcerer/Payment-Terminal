@@ -1,15 +1,3 @@
-/******************************************************************************
-#                      PHP Stripe Payment Terminal v1.0
-#******************************************************************************
-#      Author:     Convergine.com
-#      Email:      info@convergine.com
-#      Website:    http://www.convergine.com
-#
-#
-#      Version:    1.0
-#      Copyright:  (c) 2012 - Convergine.com
-#
-#*******************************************************************************/
 
 function isValidCardNumber (strNum)
 {
