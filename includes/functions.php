@@ -1,16 +1,5 @@
 <?php
-/******************************************************************************
-#                      PHP Stripe Payment Terminal v1.3
-#******************************************************************************
-#      Author:     Convergine.com
-#      Email:      info@convergine.com
-#      Website:    http://www.convergine.com
-#
-#
-#      Version:    1.3
-#      Copyright:  (c) 2013 - Convergine.com
-#      
-#*******************************************************************************/
+
 
 /* Luhn algorithm number checker - (c) 2005-2008 shaman - www.planzero.org *
  * This code has been released into the public domain, however please      *
